@@ -1,2 +1,5 @@
-# php-w3css-core
+PHP and W3.CSS Core
+
 A PHP and W3.CSS starting point. 
+
+
